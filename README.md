@@ -1,2 +1,4 @@
 # ritesh-demo
-This is my first Github Repository
+This is my first Git Repository
+Owner - Ritesh
+
